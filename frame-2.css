@@ -1,0 +1,689 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 172.8rem;
+}.frame-2-rZr {
+  box-sizing: border-box;
+  padding: 2.75rem 22.457rem 4.771rem 19.7rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #f0ba6b;
+}
+.frame-2-rZr .loginbutton-w5W {
+  margin: 0rem 33.943rem 7.95rem 29.4rem;
+  width: calc(100% - 63.343rem);
+  height: 12rem;
+  position: relative;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.frame-2-rZr .loginbutton-w5W .rectangle-6-Snx {
+  width: 67.3rem;
+  height: 10.5rem;
+  position: absolute;
+  left: 0;
+  top: 0.55rem;
+  background-color: rgba(70, 36, 36, 0.6000000238);
+  border-radius: 0.5rem;
+}
+.frame-2-rZr .loginbutton-w5W .log-in-Muv {
+  width: 23.8rem;
+  height: 12rem;
+  position: absolute;
+  left: 22.5rem;
+  top: 0;
+  display: flex;
+  font-size: 8rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #462323;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-2-rZr .auto-group-vtpc-e8L {
+  width: 100%;
+  height: 84.3293rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .signup-ang {
+  margin-right: 10.9263rem;
+  box-sizing: border-box;
+  padding: 1.601rem 2.525rem 1.43rem 3.213rem;
+  width: 59.6737rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem rgba(255, 255, 255, 0.200000003);
+  box-shadow: 0 0.8rem 3.2rem rgba(31, 38, 135, 0.3000000119);
+  background-color: rgba(255, 255, 255, 0.3000000119);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .signup-ang .auto-group-bgqa-5De {
+  margin: 0rem 0rem 1.604rem 0rem;
+  width: calc(100% - 0rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .signup-ang .auto-group-bgqa-5De .sign-up-bxg {
+  margin-right: 40.1456rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #462323;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .signup-ang .auto-group-bgqa-5De .closebutton-i1i {
+  margin-bottom: 0.4824rem;
+  width: 4.5903rem;
+  height: 4.3921rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #462323;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-1.png');
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .signup-ang .social-login-MqN {
+  margin: 0rem 1.148rem 1.483rem 0rem;
+  width: 52.7883rem;
+  height: 7.1372rem;
+  position: relative;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .signup-ang .social-login-MqN .sign-up-with-google-5Fa {
+  width: 24.1rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 14.4594rem;
+  top: 1.8784rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #462323;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .signup-ang .social-login-MqN .item--B3i {
+  width: 1.5rem;
+  height: 3.1rem;
+  position: absolute;
+  left: 10.6724rem;
+  top: 2.1284rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #462323;
+  font-family: Font Awesome 5 Brands, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .signup-ang .social-login-MqN .rectangle-4-4NQ {
+  width: 52.7883rem;
+  height: 7.1372rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.2rem #462323;
+  box-sizing: border-box;
+  border-radius: 0.5rem;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .signup-ang .line-1-Lqi {
+  margin: 0rem 1.147rem 0.943rem 0rem;
+  width: 52.7884rem;
+  height: 0.1rem;
+  background-color: #462323;
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .signup-ang .namefield-UBE {
+  margin: 0rem 1.148rem 1.427rem 0rem;
+  box-sizing: border-box;
+  padding-top: 0.0118rem;
+  width: 52.7883rem;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .signup-ang .namefield-UBE .name-zfN {
+  margin-bottom: 1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #462323;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .signup-ang .namefield-UBE .auto-group-c3sr-LjE {
+  width: 100%;
+  height: 7.1372rem;
+  position: relative;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .signup-ang .namefield-UBE .auto-group-c3sr-LjE .enter-your-full-name-6iQ {
+  width: 24.6rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 1.7214rem;
+  top: 1.7686rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #462323;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .signup-ang .namefield-UBE .auto-group-c3sr-LjE .rectangle-9-bQG {
+  width: 52.7883rem;
+  height: 7.1372rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.2rem #462323;
+  box-sizing: border-box;
+  border-radius: 0.5rem;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .signup-ang .emailfield-7Nc {
+  margin: 0rem 1.148rem 1.318rem 0rem;
+  box-sizing: border-box;
+  padding: 0.012rem 0rem 0rem 0rem;
+  width: 52.7883rem;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .signup-ang .emailfield-7Nc .email-qJc {
+  margin-bottom: 1rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #462323;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .signup-ang .emailfield-7Nc .auto-group-ux5i-a1J {
+  width: 100%;
+  height: 7.1372rem;
+  position: relative;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .signup-ang .emailfield-7Nc .auto-group-ux5i-a1J .enter-your-email-address-vax {
+  width: 29.6rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 1.7214rem;
+  top: 1.7686rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #462323;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .signup-ang .emailfield-7Nc .auto-group-ux5i-a1J .rectangle-10-2tt {
+  width: 52.7883rem;
+  height: 7.1372rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.2rem #462323;
+  box-sizing: border-box;
+  border-radius: 0.5rem;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .signup-ang .passwordfield-kZz {
+  margin: 0rem 1.148rem 1.427rem 0rem;
+  box-sizing: border-box;
+  padding-top: 0.0118rem;
+  width: 52.7883rem;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .signup-ang .passwordfield-kZz .password-HK2 {
+  margin-bottom: 0.451rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #462323;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .signup-ang .passwordfield-kZz .auto-group-ueap-DCg {
+  width: 100%;
+  height: 7.1372rem;
+  position: relative;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .signup-ang .passwordfield-kZz .auto-group-ueap-DCg .at-least-8-characters-xvx {
+  width: 24.9rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 1.7214rem;
+  top: 1.7686rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #462323;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .signup-ang .passwordfield-kZz .auto-group-ueap-DCg .rectangle-11-sHE {
+  width: 52.7883rem;
+  height: 7.1372rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.2rem #462323;
+  box-sizing: border-box;
+  border-radius: 0.5rem;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .signup-ang .agree-nQC {
+  margin: 0rem 9.181rem 2.086rem 0rem;
+  box-sizing: border-box;
+  padding: 0.176rem 5.431rem 0.176rem 0rem;
+  width: calc(100% - 9.1806rem);
+  display: flex;
+  align-items: center;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .signup-ang .agree-nQC .rectangle-13-VZW {
+  margin: 0rem 0.803rem 0.11rem 0rem;
+  width: 1.7214rem;
+  height: 1.6471rem;
+  background-color: #462323;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .signup-ang .agree-nQC .i-agree-with-terms-and-privacy-23e {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #462323;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .signup-ang .agree-nQC .i-agree-with-terms-and-privacy-23e .i-agree-with-terms-and-privacy-23e-sub-0 {
+}
+.frame-2-rZr .auto-group-vtpc-e8L .signup-ang .agree-nQC .i-agree-with-terms-and-privacy-23e .i-agree-with-terms-and-privacy-23e-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-decoration-line: underline;
+  color: #462323;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.frame-2-rZr .auto-group-vtpc-e8L .signup-ang .agree-nQC .i-agree-with-terms-and-privacy-23e .i-agree-with-terms-and-privacy-23e-sub-2 {
+}
+.frame-2-rZr .auto-group-vtpc-e8L .signup-ang .agree-nQC .i-agree-with-terms-and-privacy-23e .i-agree-with-terms-and-privacy-23e-sub-3 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  text-decoration-line: underline;
+  color: #462323;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.frame-2-rZr .auto-group-vtpc-e8L .signup-ang .signupbutton-4HA {
+  margin: 0rem 1.148rem 2.196rem 0rem;
+  width: 52.7883rem;
+  height: 7.1372rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #462323;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(70, 36, 36, 0.6000000238);
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .signup-ang .line-3-JhJ {
+  margin: 0rem 1.147rem 2.382rem 0rem;
+  width: 52.7884rem;
+  height: 0.1rem;
+  background-color: #462323;
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .signup-ang .foot-qSL {
+  margin: 0rem 14.073rem 0rem 8.263rem;
+  width: calc(100% - 22.3359rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .signup-ang .foot-qSL .already-have-an-account-ADi {
+  margin-bottom: 1.2314rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #462323;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .signup-ang .foot-qSL .log-in-5rU {
+  margin-left: 3.6007rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #462323;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .login-M3J {
+  margin-bottom: 0.0061rem;
+  box-sizing: border-box;
+  padding: 2.415rem 2.327rem 1.606rem 2.6rem;
+  width: 60.043rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem rgba(255, 255, 255, 0.200000003);
+  box-shadow: 0 0.8rem 3.2rem rgba(31, 38, 135, 0.3000000119);
+  background-color: rgba(255, 255, 255, 0.3000000119);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .login-M3J .auto-group-gzzc-F8g {
+  margin: 0rem 0rem 1.959rem 0.847rem;
+  width: calc(100% - 0.8466rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .login-M3J .auto-group-gzzc-F8g .log-in-Nj6 {
+  margin-right: 42.4509rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #462323;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .login-M3J .auto-group-gzzc-F8g .closebutton-7Rn {
+  margin-bottom: 0.3448rem;
+  width: 4.6187rem;
+  height: 4.8507rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #462323;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-2.png');
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .login-M3J .social-login-zEg {
+  margin: 0rem 1.155rem 1.648rem 0.847rem;
+  box-sizing: border-box;
+  padding: 2.202rem 15.311rem 2.081rem 11.893rem;
+  width: calc(100% - 2.0012rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.2rem #462323;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .login-M3J .social-login-zEg .item--tax {
+  margin: 0rem 2.31rem 0rem 0rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #462323;
+  font-family: Font Awesome 5 Brands, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .login-M3J .social-login-zEg .log-in-with-google-Cbe {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #462323;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .login-M3J .auto-group-gsvw-UZA {
+  margin: 0rem 0.301rem 2.718rem 0.847rem;
+  box-sizing: border-box;
+  padding-left: 0.8534rem;
+  width: calc(100% - 1.1478rem);
+  height: 12.9755rem;
+  border-top: solid 0.1rem #462323;
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .login-M3J .auto-group-gsvw-UZA .emailfield-PAL {
+  box-sizing: border-box;
+  padding-top: 0.2009rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.5rem;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .login-M3J .auto-group-gsvw-UZA .emailfield-PAL .email-jEC {
+  margin-bottom: 1.2923rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #462323;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .login-M3J .auto-group-gsvw-UZA .emailfield-PAL .auto-group-anha-GE8 {
+  width: 100%;
+  height: 7.8823rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .login-M3J .auto-group-gsvw-UZA .emailfield-PAL .auto-group-anha-GE8 .enter-your-email-address-pFe {
+  width: 29.6rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 1.732rem;
+  top: 2.1412rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #462323;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .login-M3J .auto-group-gsvw-UZA .emailfield-PAL .auto-group-anha-GE8 .rectangle-8-KiC {
+  width: 53.1149rem;
+  height: 7.8823rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.2rem #462323;
+  box-sizing: border-box;
+  border-radius: 0.5rem;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .login-M3J .passwordfield-chJ {
+  margin: 0rem 1.155rem 1.576rem 0.847rem;
+  box-sizing: border-box;
+  padding: 0.201rem 0rem 0rem 0rem;
+  width: calc(100% - 2.0012rem);
+  display: flex;
+  flex-direction: column;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .login-M3J .passwordfield-chJ .password-X3a {
+  margin-bottom: 1.2924rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #462323;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .login-M3J .passwordfield-chJ .auto-group-kmoz-Rue {
+  width: 100%;
+  height: 7.8823rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .login-M3J .passwordfield-chJ .auto-group-kmoz-Rue .enter-your-password-anY {
+  width: 24.3rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 1.732rem;
+  top: 2.1412rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #462323;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .login-M3J .passwordfield-chJ .auto-group-kmoz-Rue .rectangle-7-toE {
+  width: 53.1149rem;
+  height: 7.8823rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  border: solid 0.2rem #462323;
+  box-sizing: border-box;
+  border-radius: 0.5rem;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .login-M3J .remember-R2U {
+  margin: 0rem 31.638rem 1.189rem 0.847rem;
+  box-sizing: border-box;
+  padding: 0.383rem 2.722rem 0.383rem 0rem;
+  width: calc(100% - 32.4846rem);
+  display: flex;
+  align-items: center;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .login-M3J .remember-R2U .rectangle-12-KtY {
+  margin: 0rem 0.577rem 0.121rem 0rem;
+  width: 1.732rem;
+  height: 1.819rem;
+  background-color: #462323;
+  border-radius: 0.3rem;
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .login-M3J .remember-R2U .remember-me-qrt {
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #462323;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .login-M3J .loginbutton-NM2 {
+  margin: 0rem 2.001rem 2.934rem 0rem;
+  width: 53.1149rem;
+  height: 7.8823rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #462323;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(70, 36, 36, 0.6000000238);
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .login-M3J .line-4-dXr {
+  margin: 0rem 1.155rem 2.829rem 0.847rem;
+  width: calc(100% - 2.0011rem);
+  height: 0.1rem;
+  background-color: #462323;
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .login-M3J .foot-MTr {
+  margin: 0rem 15.624rem 0rem 10.892rem;
+  width: calc(100% - 26.5162rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .login-M3J .foot-MTr .dont-have-an-account-UoN {
+  margin-bottom: 1.3718rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #462323;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-2-rZr .auto-group-vtpc-e8L .login-M3J .foot-MTr .sign-up-CDa {
+  margin-left: 3.0006rem;
+  display: flex;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #462323;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
